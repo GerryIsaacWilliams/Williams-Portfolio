@@ -25,7 +25,7 @@ Portfolio for Isaac Williams for Telling Stories with Data.
 ##### Source: National Accounts at a Glance
 
 #### These two charts showcase the same data in different ways. The bar graph allows a clear indication of of the GDP % debt for a single year (2020). The single year paired with the single color for all data allows the reader to see that no one country is highlighted. There is also the
-### The second line graph allows for comparisons of the different countries' data over a loneger period of time. The layout of the line charts help section out the countries to showcase the differences and patterns shown by the data from different countries.  
+#### The second line graph allows for comparisons of the different countries' data over a loneger period of time. The layout of the line charts help section out the countries to showcase the differences and patterns shown by the data from different countries.  
 
 ## General government debtTotal of Different Nations, % of GDP, 1995 – 2020
 <div class="flourish-embed flourish-chart" data-src="visualisation/7256151"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
