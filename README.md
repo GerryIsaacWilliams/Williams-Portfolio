@@ -13,7 +13,7 @@ Portfolio for Isaac Williams for Telling Stories with Data.
 #### Understanding how to ensure data or my ideas are well recieved on an online platform is something I want to develope. I want to learn to present ideas with intention. I am looking foward to having this online portfolio to apply ideas that well assist me in showcasing work.  
 
 ## Assignements Links
-### 
+### [Ass 3 and 4 ](assignment3and4/)
 
 
 
