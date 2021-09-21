@@ -12,6 +12,13 @@ Portfolio for Isaac Williams for Telling Stories with Data.
 
 #### Understanding how to ensure data or my ideas are well recieved on an online platform is something I want to develope. I want to learn to present ideas with intention. I am looking foward to having this online portfolio to apply ideas that well assist me in showcasing work.  
 
+## Assignements Links
+### 
+
+
+
+
+
 ## Portfolio
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/7205614"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
