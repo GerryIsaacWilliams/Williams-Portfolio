@@ -2,6 +2,7 @@
 
 ### Original Chart
 
+![Original Chart](oc.jpg)
 #### Background
 
 ### First Edits
