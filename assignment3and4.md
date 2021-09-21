@@ -58,6 +58,8 @@ I would like to know what the difference between displaced people and refugees, 
 
 ## Final Chart
 
-#### explanation 
+<div class="flourish-embed flourish-chart" data-src="visualisation/7319964"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+This is my final chart. I ended up changing the colors to more of neutral colors to showcase there is no highlighting of either of the groups. I also included a more context based title that answers the question to refugees and displacements. I was not expecting the comment of the chart maybe being manipulated to showcase a narrative, but the data I recieved is what is presented. The main idea that Enviromental Disasters affect the displacement of people more than those displaced due to Conflict is still clear. I think the title and labels now apply to the general gist of the message trying to be conveyed. 
 
 
