@@ -27,7 +27,7 @@ intrusion, etc. They will be presented to showcase the increased dire situation 
 
 ##photo
 
-## Population Increase 
+## 3. Population Increase 
 This section will showcase over time the growth of population of the islands that will be severely 
 affected. I think this will add context in why proactive measures will help save more lives than 
 waiting until the population has ballooned and are in the middle of the final stages of climate 
@@ -35,7 +35,7 @@ displacing entire island populations.
 
 ##photo
 
-## Urban Migration
+## 4. Urban Migration
 
 In this section I want to showcase how prior to displacement off the entire island, internal migrations 
 from rural to urban areas pose high threats to infrastructure, health, etc that are leaving these islanders 
@@ -45,7 +45,7 @@ slider that offers the moves of populations from rural to urban areas in some of
 
 ##photo
 
-# Costs 
+## 5. Costs 
 
 This section will showcase the cultural, social, psychological, and economic costs associated with Climate Refugees.
 As displaced populations shift from rural to urban to neighboring islands to neighboring major countries like
@@ -57,7 +57,7 @@ It is important to ensure ways to migrate that preserves the diginities of the p
 
 #photo 
 
-# Benefits to Migration
+## 6. Benefits to Migration
 
 This section is in progress. I want to showcase data that will indicate how increase of refugees can 
 economically benefit host nations that take in refugees. These would come fro, examples in Europe or Canada 
