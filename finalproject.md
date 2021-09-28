@@ -45,4 +45,22 @@ slider that offers the moves of populations from rural to urban areas in some of
 
 ##photo
 
+# Costs 
+
+This section will showcase the cultural, social, psychological, and economic costs associated with Climate Refugees.
+As displaced populations shift from rural to urban to neighboring islands to neighboring major countries like
+Australia, USA, and New Zealand costs go up. People lose their homes, their source of economic, cultural laws
+and practices. 
+
+This section allows for the readers to realize that there are more things at stake for these people. 
+It is important to ensure ways to migrate that preserves the diginities of the populations at risk.
+
+#photo 
+
+# Benefits to Migration
+
+This section is in progress. I want to showcase data that will indicate how increase of refugees can 
+economically benefit host nations that take in refugees. These would come fro, examples in Europe or Canada 
+or NZ etc where refugees have had positive impacts. This should be enforced to qualm the fears of host nations 
+who have people who doubt the benefits of migration.
 
