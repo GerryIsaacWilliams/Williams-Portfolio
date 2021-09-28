@@ -64,3 +64,23 @@ economically benefit host nations that take in refugees. These would come fro, e
 or NZ etc where refugees have had positive impacts. This should be enforced to qualm the fears of host nations 
 who have people who doubt the benefits of migration.
 
+# The Data 
+
+The majority of datasets that will be used are pulled from Secretariat of the Pacific Community accessible 
+data that offers population, urbanization, environmental impact, etc on many Pacific Nations.
+
+https://pacificdata.org/data/dataset
+
+They stem from data presented in the Pacific Climate Change and Migration (PCCM) Project called “Enhancing the Capacity of Pacific Island Countries to Manage the Impacts of Climate Change on Migration”. It was created by the United Nations Economic and Social Commission for Asia and the Pacific, the International Labour Organization, and the United Nations Development Programme.
+
+https://www.ilo.org/dyn/migpractice/docs/261/Pacific.pdf
+https://i.unu.edu/media/ehs.unu.edu/news/11747/RZ_Pacific_EHS_ESCAP_151201.pdf 
+
+
+
+# Method and Medium
+
+My plan is to use Esri’s Story Maps. The main image I want to get across is the increased danger certain Pacific Islands face due to climate change. In this medium I am able to take the outline and include data and maps to showcase the importance of proactive policy measures.
+
+The Story Map will allow easy uploading of this data while keeping a succinct and interactive model that presents the story arch. I would like to add information to the side with an explanation and more information than just the data illustrations presented. 
+
