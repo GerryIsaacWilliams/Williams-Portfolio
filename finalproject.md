@@ -35,7 +35,7 @@ displacing entire island populations.
 
 ##photo
 
-##Urban Migration
+## Urban Migration
 
 In this section I want to showcase how prior to displacement off the entire island, internal migrations 
 from rural to urban areas pose high threats to infrastructure, health, etc that are leaving these islanders 
