@@ -19,7 +19,9 @@ with information on the people living in these islands will face in the upcoming
 like to add a map indicating the nations like Tuvalu, Nauru, Kiribati, and other Pacific Island Nations 
 who will face environmental impact which eventually leads to displacement.
 
-![Example Map](ExampleMap.JPG)
+I will create my own map
+
+<p style="font-size: 0.9rem;font-style: italic;"><img style="display: block;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/TTPI-locatormap.png" alt="File:TTPI-locatormap.png"><a href="https://commons.wikimedia.org/w/index.php?curid=1384263">"File:TTPI-locatormap.png"</a><span> by <a href="https://commons.wikimedia.org/wiki/File:Gnome-globe.svg">This map has been uploaded by Electionworld from en.wikipedia.org to enable the Wikimedia Atlas of the World . Original uploader to en.wikipedia.org was Hoshie, known as Hoshie at en.wikipedia.org. Electionworld is not the creator of this map. Licensing information is below.</a></span> is licensed under <a href="http://creativecommons.org/licenses/by-sa/3.0/?ref=ccsearch&atype=html" style="margin-right: 5px;">CC BY-SA 3.0</a><a href="http://creativecommons.org/licenses/by-sa/3.0/?ref=ccsearch&atype=html" target="_blank" rel="noopener noreferrer" style="display: inline-block;white-space: none;margin-top: 2px;margin-left: 3px;height: 22px !important;"><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc_icon.svg?image_id=931f4379-8dfd-44d2-8164-701d0e01cc1c" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img style="height: inherit;margin-right: 3px;display: inline-block;" src="https://search.creativecommons.org/static/img/cc-sa_icon.svg" /></a></p>
 
 ## 2. Climate Impact 
 In this section I want to include data from the United Nations Economic and Social Commission 
