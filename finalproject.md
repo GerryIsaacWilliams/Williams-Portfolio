@@ -17,7 +17,7 @@ with information on the people living in these islands will face in the upcoming
 like to add a map indicating the nations like Tuvalu, Nauru, Kiribati, and other Pacific Island Nations 
 who will face environmental impact which eventually leads to displacement.
 
-##photo
+![Example Map](ExampleMap.JPG)
 
 ## 2. Climate Impact 
 In this section I want to include data from the United Nations Economic and Social Commission 
@@ -25,7 +25,8 @@ for Asia and the Pacific that offers an understanding of what effects are being 
 vulnerable nations. Events like increased cyclones, sea level rise, flooding, drought, saltwater 
 intrusion, etc. They will be presented to showcase the increased dire situation populations will face.
 
-##photo
+
+![Climate Impact](CkimateEffect.JPG)
 
 ## 3. Population Increase 
 This section will showcase over time the growth of population of the islands that will be severely 
@@ -33,7 +34,10 @@ affected. I think this will add context in why proactive measures will help save
 waiting until the population has ballooned and are in the middle of the final stages of climate 
 displacing entire island populations. 
 
-##photo
+
+![Projected Population](ProjectedPopulation.JPG)
+
+![Population](Population.JPG)
 
 ## 4. Urban Migration
 
@@ -43,7 +47,8 @@ with no space. This is pushing people off the islands, but with no legal way to 
 counted as refugees, people are stuck. The increase of urban population may be best to be presented with a 
 slider that offers the moves of populations from rural to urban areas in some of these nations. 
 
-##photo
+
+![Urban Move](Urban.JPG)
 
 ## 5. Costs 
 
@@ -55,7 +60,8 @@ and practices.
 This section allows for the readers to realize that there are more things at stake for these people. 
 It is important to ensure ways to migrate that preserves the diginities of the populations at risk.
 
-#photo 
+
+![Example Costs](Costs.JPG)
 
 ## 6. Benefits to Migration
 
