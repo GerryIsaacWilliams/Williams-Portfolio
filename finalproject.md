@@ -1,5 +1,7 @@
 # Final Project
 
+# Ensuring the Recognition and Path Foward for Climate Refugees
+
 ## Project Summary: 
 
 Pacific Climate refugees (Pacific population that are displaced due to long term environmental
