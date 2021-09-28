@@ -34,3 +34,15 @@ waiting until the population has ballooned and are in the middle of the final st
 displacing entire island populations. 
 
 ##photo
+
+##Urban Migration
+
+In this section I want to showcase how prior to displacement off the entire island, internal migrations 
+from rural to urban areas pose high threats to infrastructure, health, etc that are leaving these islanders 
+with no space. This is pushing people off the islands, but with no legal way to migrate or no ability to be 
+counted as refugees, people are stuck. The increase of urban population may be best to be presented with a 
+slider that offers the moves of populations from rural to urban areas in some of these nations. 
+
+##photo
+
+
