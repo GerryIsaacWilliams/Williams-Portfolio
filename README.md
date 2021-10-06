@@ -15,7 +15,7 @@ Portfolio for Isaac Williams for Telling Stories with Data.
 ## Assignements Links
 ### [Assignement 3 and 4](assignment3and4.md/)
 ### [Final Project Part 1](finalproject.md/)
-
+### [Final Project Part 2](finalprojectpart2.md/)
 
 
 
