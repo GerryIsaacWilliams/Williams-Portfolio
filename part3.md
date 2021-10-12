@@ -78,3 +78,18 @@ I aslo need to add more to the color scheme to make it seems that it is very imp
 I also need to add more information about how Climate Refugees are not legally recognized as refugees due to the UN definition of a Refugee.
 
 ## Part III (Changes Made From Feedback of Part II):
+
+There were a good number of changes that I made in order to clearly state the message of climate refugees from the Pacific. A few of the graphs were fixed in order to 
+display information that was clearer. For example I introduced a more clear population change map to show how population will change in terms of percentages. This allowed for 
+greater ability to show contrastbetween the nations, but also showcase the high relative increase for each nation. I also introduced the idea of urban increase in the project as a circle graph and more as infographics. 
+
+In terms of design, I tried to be more succinct with the color choices I used. I wanted more earthy and blue colors. This was a change from the previous graphs that showcased 
+multicolored barcharts to more uniform colors. I also wanted to add a visual where it shows some atoll nations like Kirbati, Nauru, and Tuvalu being underwater as transitions 
+to hit home the fact that whole island nations are headed towards migrational emergency.
+
+Ultimately, the audience is open for general public while also including some calls to action for higher up organizations to be inclusive of the definition of refugees. 
+This project mainly raises awarness for Pacific Island nations that don't have much of a voice on the global stage. Their concerns are overlooked, and this project allows for 
+easier access to the public to this growing concern for entire populations of these smaller islands. 
+
+## Link to Final Shorthand Project
+https://carnegiemellon.shorthandstories.com/pacific-island-climate-refugees/index.html 
