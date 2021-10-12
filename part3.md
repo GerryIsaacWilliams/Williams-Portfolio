@@ -92,4 +92,4 @@ This project mainly raises awarness for Pacific Island nations that don't have m
 easier access to the public to this growing concern for entire populations of these smaller islands. 
 
 ## Link to Final Shorthand Project
-https://carnegiemellon.shorthandstories.com/pacific-island-climate-refugees/index.html 
+[Final Project](https://carnegiemellon.shorthandstories.com/pacific-island-climate-refugees/index.html)
