@@ -1,5 +1,6 @@
 # Part III Final Project
-## Parts I, II, and III 
+
+## Part I
 
 [Final Project Part I](finalproject.md/)
 
@@ -11,7 +12,7 @@ recommendation that needs to be made on an international organization level as w
 My approach of finding individuals for audience feedback comes from looking for undergraduate and graduate students with some background in learning about the environment, 
 digital design, and general political interest/human justice. 
 
-## Audience Questions:
+### Audience Questions:
 
 What is this site stating, what is the gist of the site?
 
@@ -23,7 +24,7 @@ What did not make sense?
 
 What stood out to you?
  
-## User Research and Interviews
+### User Research and Interviews
 
 Person J:
 This presentation describes the issues in the Pacific Islands. Climate change causes environmental events that cause people to flee their homes. 
@@ -62,7 +63,7 @@ The urban part did not make sense, but after I read more I saw how it can affect
 The colors and photos gave me a calm feeling, but I felt the information was very scary. The two did not seem to match.
 
 
-## What I gathered from interviews and changes that will be made:
+### What I gathered from interviews and changes that will be made:
 
 People generally understand the point of the wireframe. 
 
@@ -76,4 +77,4 @@ I aslo need to add more to the color scheme to make it seems that it is very imp
 
 I also need to add more information about how Climate Refugees are not legally recognized as refugees due to the UN definition of a Refugee.
 
-## Changes Made From Feedback of Part II
+## Part III (Changes Made From Feedback of Part II)
