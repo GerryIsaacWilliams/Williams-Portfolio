@@ -1,6 +1,7 @@
 # Part III Final Project
+## Parts I, II, and III 
 
-Link to Part I
+[Final Project Part I](finalproject.md/)
 
 ## Part II Audience Feedback:
 ### Target Audience:
