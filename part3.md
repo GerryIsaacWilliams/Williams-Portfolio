@@ -1,10 +1,10 @@
 # Part III Final Project
 
-## Part I
+## Part I:
 
 [Final Project Part I](finalproject.md/)
 
-## Part II Audience Feedback:
+## Part II (Audience Feedback):
 ### Target Audience:
 My target audience is those policy makers such as individuals in the United Nations, but it also extends to a general audience. The call to action specifically describes a 
 recommendation that needs to be made on an international organization level as well as links to different ways to learn and support Climate Refugees.
@@ -77,4 +77,4 @@ I aslo need to add more to the color scheme to make it seems that it is very imp
 
 I also need to add more information about how Climate Refugees are not legally recognized as refugees due to the UN definition of a Refugee.
 
-## Part III (Changes Made From Feedback of Part II)
+## Part III (Changes Made From Feedback of Part II):
